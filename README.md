@@ -1,7 +1,10 @@
 # [roll-a-boll] 
 **Aluno:** João Victor Ribeiro de Lima Souza
+
 **Turma:** 2026.09.67
+
 **Feito com:** Unity 6 e C# 
+
 ## Sobre o projeto
 Você controla uma bolinha onde tem que pegar lozangos verde é roxos para pontuar enquanto foge de uma bolinha inimiga.
 
